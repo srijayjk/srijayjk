@@ -8,7 +8,7 @@
 -I am Learning/working in the field of Deep learning/Machine Learning
 and I write articles related to AI on medium. 
 
-![alt text](http://url/to/img.png)
+![1_qHbAsMNmdWQJkzm2SUA-8w](https://user-images.githubusercontent.com/23414920/100386723-86007700-3026-11eb-92d8-0d307f70855a.jpeg)
 
 
 
